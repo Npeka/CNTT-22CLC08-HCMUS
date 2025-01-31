@@ -1,0 +1,19 @@
+﻿Name,Price
+Samsung Galaxy S9,799
+iPhone X,999
+Google Pixel 2,649
+Samsung Galaxy S8,720
+iPhone 8,699
+Google Pixel,649
+Samsung Galaxy S7,609
+iPhone 7,549
+Google Pixel XL,769
+Samsung Galaxy S6,579
+iPhone 6,499
+Google Nexus 6P,499
+Samsung Galaxy S5,499
+iPhone 5,399
+Google Nexus 5,349
+Samsung Galaxy S4,499
+iPhone 4,399
+Google Nexus 4,299

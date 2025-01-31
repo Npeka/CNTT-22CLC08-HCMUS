@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Phones>
+	<Phone Name="Nokia" Price="150000"/>
+	<Phone Name="Samsung" Price="200000"/>
+	<Phone Name="Sony" Price="250000"/>
+	<Phone Name="LG" Price="300000"/>
+	<Phone Name="HTC" Price="350000"/>
+	<Phone Name="Apple" Price="400000"/>
+	<Phone Name="Blackberry" Price="450000"/>
+	<Phone Name="Motorola" Price="500000"/>
+	<Phone Name="Huawei" Price="550000"/>
+	<Phone Name="ZTE" Price="600000"/>
+	<Phone Name="Lenovo" Price="650000"/>
+</Phones>

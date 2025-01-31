@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|d:\\cntt-22clc08-hcmus\\hk8\\csc13001_lap trinh window\\demo week02 oop dependency injection\\demooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|d:\\cntt-22clc08-hcmus\\hk8\\csc13001_lap trinh window\\demo week02 oop dependency injection\\demooop\\phones.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|solutionrelative:phones.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|d:\\cntt-22clc08-hcmus\\hk8\\csc13001_lap trinh window\\demo week02 oop dependency injection\\demooop\\phones.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F8976FF-118E-42EA-9951-7C733BF25400}|DemoOop.csproj|solutionrelative:phones.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "phones.xml",
+              "DocumentMoniker": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\phones.xml",
+              "RelativeDocumentMoniker": "phones.xml",
+              "ToolTip": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\phones.xml",
+              "RelativeToolTip": "phones.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-13T03:47:47.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phones.txt",
+              "DocumentMoniker": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\phones.txt",
+              "RelativeDocumentMoniker": "phones.txt",
+              "ToolTip": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\phones.txt",
+              "RelativeToolTip": "phones.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T03:31:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CNTT-22CLC08-HCMUS\\HK8\\CSC13001_Lap trinh window\\Demo Week02 Oop Dependency injection\\DemoOop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:03:42.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
