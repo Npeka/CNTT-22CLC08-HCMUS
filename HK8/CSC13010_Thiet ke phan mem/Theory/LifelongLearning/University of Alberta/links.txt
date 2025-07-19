@@ -1,0 +1,15 @@
+https://www.coursera.org/specializations/software-design-architecture
+
+https://www.coursera.org/learn/object-oriented-design/
+
+https://www.coursera.org/learn/design-patterns/
+
+https://www.coursera.org/learn/software-architecture
+
+https://www.coursera.org/learn/service-oriented-architecture/
+	
+https://online.stanford.edu/courses/soe-ydatabases0004-databases-semistructured-data
+
+https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SSD0001+2T2020/home
+	
+https://web.stanford.edu/~ouster/cgi-bin/cs190-winter21/index.php
