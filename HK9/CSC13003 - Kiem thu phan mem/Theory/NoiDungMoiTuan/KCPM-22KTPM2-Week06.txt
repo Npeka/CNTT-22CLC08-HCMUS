@@ -1,0 +1,46 @@
+KCPM-22KTPM2-Week06
+
+* Review
+- Case Study - Domain Testing
+
+1. Important Features?
++ 1 so bai ko ghi ro phan cong cua cac thanh vien trong nhom
++ Chon feature ko phu hop de ap dung Domain Testing. Vd: Rentals
++ Chon feature qua rong: Manage Users: Add, Delete, Update, Search, Reset
++ Tach feature. Vd: Contact: Message + Attachment
++ Chon cung luc 2 feature qua don gian (co it input va output) => chon toi thieu 1 feature phuc tap + 1 don gian, hoac ca 2 phuc tap => khi trinh bay nen uu tien de feature phuc tap len dau
+
+2. Cach trinh bay Manual Domain Testing
+- Gioi thieu tom tat ve chuc nang lua chon, kem hinh chup man hinh tuong ung (neu co), spec/database design/user story/sprint 5 (no bug) tuong ung (neu co su dung de ho tro phan tich)
+- Xac dinh input, ouput va cac rang buoc. Luu y: rang buoc nen uu tien tu dac ta cua SUT.Khi khong co thong tin thi moi su dung cac san pham tuong tu va kinh nghiem ban than.
+- Xac dinh mien gia tri cho tung input va output: mien hop le, mien ko hop le
+- Xac dinh gia tri bien doi voi cac input va output co mien gia tri so lien tuc
+- Lap bang TCs tom tat (STT, Mien gia tri, inputs, expected output): Cac cot inputs va expected output nen co test data cu the
+
+3. Cach trinh bay AI-based Domain Testing
+- Neu ro AI tool su dung
+- Neu ro step by step cach su dung tool. Vd: cac prompt da dung
+- Copy & paste ket qua cuoi cung tu AI vao bao cao
+- Viet ro phan tich so sanh giua ket qua Manual va AI. Vd: giong cho nao, khac cho nao, co diem gi dac biet, rut kinh nghiem prompt hieu qua...
+
+4. Lap bang TCs tong hop bao gom ket qua Manual va AI, da loai bo cac TC khong lien quan hoac trung lap. Cac TCs duoc trinh bay lai theo chuan QA chuyen nghiep.
+- Nen su dung dung template da duoc cung cap
+- So TCs nen tuong duong voi so domain
+
+5. Thuc thi TC, ghi nhan ket qua va bao cao loi
+- Nen su dung dung template da duoc cung cap
+
+=> Neu co su dung AI ho tro cho buoc 4 va 5, hay trinh bay bo sung them trong bao cao
+
+* Muc tieu buoi hoc: 
+- Scenario Testing:
++ Scenario là gì?
++ Cac cach xac dinh Scenario?
++ Cach mo rong Scenraio de thiet ke TCs? (1 scenario co nhieu TCs)
+- Test Summary Report
+
+* Yeu cau ve nha:
+- Draft Case Study - Scenario Testing
+- Test Summary Report
+
+

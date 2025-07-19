@@ -1,0 +1,32 @@
+KCPM-22KTPM2-Week05
+
+- Review
+
+* NodeJS Build 1
+
+- Test case name
+- Bug summary
+- Priority
+- Severity
+- Statistics
+
+* Decision Table Testing
+
+* Case study: Domain Testing (Tuan sau) 23h59 T6
+
+- Xac dinh mien gia tri?
+
+* Database Design
+* Explore print 5: error messages
+* Principles
+* Experiences
+
+- Muc tieu mon hoc
+
+* State Transition Testing
+
+* Use-case Testing
+
+- Yeu cau ve nha
+
+* Test Case & Bug Report cho Website NodeJS Build 2

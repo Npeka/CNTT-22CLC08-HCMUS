@@ -1,0 +1,59 @@
+KCPM-W2
+
+- Review
+
+* WH
+* Seminar 1.5
+  Project 4.5
+  CK trac nghiem 4
+
+- Muc tieu buoi hoc
+
+* Tro tai lam tester
+
+- Thao luan
+
+1. Ung dung Basic Calculator co nhung chuc nang nao? Nhom da test duoc nhung chuc nang nao? Minh chung?
+   +, -, \*, /, concate, integer only, clear
+
+2. Ngoai kiem thu chuc nang, co the kiem thu gi khac cho ung dung ko?
+Giao dien
+=> Cot Test Type
+
+3. Nhom co tong cong bao nhieu Test case (Truong hop kiem thu)? Khong dung phuong phap dem, nhom co the tra loi lap tuc so Test case cua nhom khong?
+=> STT
+
+4. Lam sao biet duoc vai tro/cong viec cu the cua cac thanh vien trong nhom?
+=> Tester
+
+5. Lam sao biet duoc 1 truong hop kiem thu la dung hay sai (passed / failed)?
+Expected Output?
++ Prototype
++ Experience
++ Specification
++ Similar Software
++ Design,...
+
+Expected = Actual => Passed
+Expected != Actual => Failed => Bug?
+- Bug => Report Bug
+- Ko phai Bug (Vd: expected sai) => Sua lai TC
+
+6. Nhom ban da tim duoc tong cong bao nhieu loi?
+=> STT
+
+7. Ban co the thuc hien lai viec test dua tren tai lieu cua nhom khac khong?
+=> Test Steps, precondition, test data, expected output
+
+8. Neu ban la developer cua ung dung Calculator, ban co hieu duoc cac loi da duoc nhom phat hien tu tai lieu cua nhom khong?
+
+9. Nhom ban co su dung AI ho tro cho hoat dong nay ko? Neu co, hay chia se cach thuc hien (AI Tools, prompt...)
+
+- Tim hieu Test Levels & Software Quality
+
+* Note taking
+* Quiz
+
+- Yeu cau ve nha:
+
+* Xem truoc bai tuan 3 => Lam Quiz

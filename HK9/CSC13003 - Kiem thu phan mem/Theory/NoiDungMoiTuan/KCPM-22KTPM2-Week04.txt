@@ -1,0 +1,23 @@
+KCPM-22KTPM2-Week04
+
+- Review
++ Software Product Quality
++ TC
++ Bug Report
+
+- Muc tieu buoi hoc
++ Test Plan
++ Domain Testing: EP + BVA
++ Decision Table Testing 
+
+- Yeu cau ve nha:
++ Case-Study:
+1. Test Plan
+2. Domain Testing
+=> Nop ban draft (theo doi mail thong bao): Yeu cau hoan thanh 1 feature
+
++ Xem truoc bai giang => Quiz
+(Deadline cac bai tap + Quiz tuan truoc se duoc doi lai - theo doi mail thong bao)
+
+
+

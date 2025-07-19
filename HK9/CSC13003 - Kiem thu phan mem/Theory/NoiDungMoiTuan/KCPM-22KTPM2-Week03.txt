@@ -1,0 +1,65 @@
+KCPM-22KTPM2-Week03
+
+- Quiz Week 1 & 2 => 14h30 26/05
+  Job Description => 17h 27/05
+
+- Review
+
+* Tester => Basic Calculator
+* Test Levels => WH Question
+* Software Quality ISO 25010
+
+- Muc tieu buoi hoc
+
+* TC
+  TC Name/Objective
+  Cong thuc:
+  Cach 1: Condition
+  Cach 2 \*\*\*: Feature + Condition + Expected
+
+Vd1: Move a file from folder A to folder B
+
+TC1. Kiem tra move file tu folder A sang folder B thanh cong
+
+Nhóm 10: Kiểm tra move files từ folder A sang folder B thất bại do folder B không tồn tại
+
+\*\*\*\*Nhóm 11: Kiểm tra move file từ folder A sang folder B lỗi khi có nhiều folder B
+
+\*Nhóm 6: Kiem tra hoi xac nhan ghi de khi Di chuyển file trùng tên đã tồn tại trong folder B
+
+Nhóm 1: Kiểm tra dời file that bai từ thư mục A sang thư mục B do bị corrupted
+
+Nhóm 15: Kiểm tra files đã được xoá khỏi Folder A sau khi đã di chuyển sang Folder B
+
+\*Nhóm 4: Kiểm tra di chuyển file mà tên file có ký tự đặc biệt hoặc khoảng trắng thành công và phải giữ nguyên tên file
+
+Nhóm 11: Kiểm tra move file từ folder A sang folder B thất bại do folder B nằm trên disk D đã đầy dung lượng
+
+Nhóm 2: Verify moving a currently open/in-use file to another folder unsuccessfully
+
+Nhóm 12: Kiểm tra move file từ folder A sang folder B thất bại do user không có quyền ghi vào folder B
+
+Nhóm 8: Kiểm tra move file X bị ẩn từ folder A sang folder B thành công
+
+\*Nhóm 17: Kiểm tra di chuyển file từ folder A sang folder B voi toc do toi thieu ?Mb/s khi file có dung lượng lớn
+
+\*Nhóm 3 : Kiểm tra di chuyển file từ folder A sang folder B that bai khi folder B có quyền truy cập giới hạn (read-only hoặc không có quyền ghi)
+
+Nhóm 3: Kiểm tra khi di chuyển file X từ folder A qua folder B thành công (được ghi đè) khi file X đã tồn tại ở folder B
+
+Nhóm 9: Kiểm tra di chuyển file đang được sử dụng từ folder A sang folder B thất bại
+
+Nhóm 5: Di chuyển thư mục A vào thư mục B khi không có quyền ghi vào folder B Thông báo lỗi quyền truy cập
+
+Nhóm 7: Di chuyển tập tin khi kết nối mạng mất trong quá trình di chuyển sang thư mục B trên ổ mạng thì hiển thị lỗi kết nối
+
+- Bug Report
+  Bug Summary: [Feature] Actual Result + Condition
+
+- Test Plan
+
+* Yeu cau ve nha:
+
+- Bai tap thiet ke TCs, thuc thi TCs, bao cao Bug cho Website NodeJS
+- Tham khao 3 vi du mau ve Test Plan cho Website NodeJS
+- Xem truoc bai giang tuan 4 => Lam Quiz
